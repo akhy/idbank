@@ -19,3 +19,12 @@
 
 # Go workspace file
 go.work
+
+
+# python virtualenv
+/env/
+
+# bank statement files
+*.pdf
+*.json
+*.csv
